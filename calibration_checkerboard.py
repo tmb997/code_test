@@ -86,3 +86,4 @@ cv_file.write("dist_coeff", dist)
 cv_file.release()
 print("Finish")
 
+print('hola')
