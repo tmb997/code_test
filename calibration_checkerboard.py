@@ -84,6 +84,4 @@ cv_file.write("dist_coeff", dist)
 
 # note you *release* you don't close() a FileStorage object
 cv_file.release()
-print("Finish")
 
-print('hola')
